@@ -84,14 +84,12 @@ Programs for the Seneca lab's MPS (Modular Production System) handling and sorti
 .
 ├── README.md
 ├── traffic-light/
-│   ├── TIA_ASSIGN.zap15
-│   ├── TIA_ASSIGN_PART_A.zap15
-│   └── TIA_ASSIGN_PART_B.zap15
+│   ├── TIA_ASSIGN.zap
 ├── washing-machine/
 │   ├── WASH11.zap15
 │   └── Wash8.0.zap15
 ├── elevator/
-│   └── ProTuto_PLC-Training-01_Elevator.zap15
+│   └── Elevator1.0.zap15
 ├── mps-station/
 │   ├── MPS_Handling_partA.zap15
 │   ├── MPS_Sorting_Final_Part_A.zap15
