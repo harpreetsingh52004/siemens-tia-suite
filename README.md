@@ -81,29 +81,5 @@ Programs for the Seneca lab's MPS (Modular Production System) handling and sorti
 ## Repo contents
 
 ```
-.
-├── README.md
-├── traffic-light/
-│   ├── TIA_ASSIGN.zap
-├── washing-machine/
-│   ├── WASH11.zap15
-│   └── Wash8.0.zap15
-├── elevator/
-│   └── Elevator1.0.zap15
-├── mps-station/
-│   ├── MPS_Handling_partA.zap15
-│   ├── MPS_Sorting_Final_Part_A.zap15
-│   └── MPS_Sorting_b_fINAL.zap15
-├── docs/
-│   ├── traffic-light-phasing.md
-│   ├── washing-machine-state-diagram.md
-│   ├── elevator-call-handling.md
-│   └── mps-io-map.md
-└── assets/
-```
-
-> 📁 **Why all four in one repo?** They're from the same toolchain (TIA Portal v15) and use the same HMI patterns. Four thin repos would dilute each other; one repo with four sections shows breadth without sacrificing depth.
-
----
 
 📫 **Harpreet Singh** — [harpreetsingh.cloud](https://harpreetsingh.cloud) · [GitHub](https://github.com/harpreetsingh52004)
