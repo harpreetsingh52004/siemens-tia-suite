@@ -77,9 +77,3 @@ Programs for the Seneca lab's MPS (Modular Production System) handling and sorti
 - **Troubleshooting is its own skill.** MPS practice — instructor disconnecting a random wire — taught me to read live PLC tags, audit the wiring against the program, and form/test hypotheses methodically. This is harder and more important than writing the original program.
 
 ---
-
-## Repo contents
-
-```
-
-📫 **Harpreet Singh** — [harpreetsingh.cloud](https://harpreetsingh.cloud) · [GitHub](https://github.com/harpreetsingh52004)
